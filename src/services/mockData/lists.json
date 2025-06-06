@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Business",
+    "color": "#3B82F6",
+    "createdAt": "2023-12-01T10:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Development",
+    "color": "#10B981",
+    "createdAt": "2023-12-01T10:15:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "Personal",
+    "color": "#F59E0B",
+    "createdAt": "2023-12-01T10:30:00.000Z"
+  },
+  {
+    "id": "4",
+    "name": "Marketing",
+    "color": "#EF4444",
+    "createdAt": "2023-12-01T10:45:00.000Z"
+  },
+  {
+    "id": "5",
+    "name": "Research",
+    "color": "#8B5CF6",
+    "createdAt": "2023-12-01T11:00:00.000Z"
+  }
+]
